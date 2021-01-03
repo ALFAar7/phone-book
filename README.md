@@ -25,11 +25,13 @@ MYSQL_DATABASE_HOST = 'LOCALHOST'
 you can run project with two way:
 
 run with python:
-``` python app.py
+```bash
+python app.py
 ```
 
 run with flask:
-``` flask run 
+```bash
+flask run 
 ```
 
 you can set a host and port to run project.
