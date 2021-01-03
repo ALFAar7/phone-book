@@ -35,3 +35,10 @@ flask run
 ```
 
 you can set a host and port to run project.
+
+
+## endpoints
+
+#### /insert
+#### /update
+#### /list
